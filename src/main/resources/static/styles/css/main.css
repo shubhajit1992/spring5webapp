@@ -20,6 +20,10 @@ table tr:nth-child(even) {
     background-color: #eee;
 }
 
+h1 {
+    text-align: center;
+}
+
 table tr:nth-child(odd) {
     background-color: #fff;
 }
